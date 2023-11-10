@@ -3,12 +3,13 @@
         "data_path": "../data",
         "location": "East US ",
         "subscription_id": "324e9419-6d7c-454c-bb02-b72dbb131ed5",
-        "resource_group": "link-tech-ai-test",
-        "search_service_name": "link-tech-on-your-data",
-        "index_name": "kitei-test-datajunbi-tool",
+        "resource_group": "link-tech-test-on-your-data",
+        "search_service_name": "link-tech-cognitive-search",
+        "index_name": "vector",
         "chunk_size": 1024,
-        "token_overlap": 128,
+        "token_overlap": 2048,
         "semantic_config_name": "default",
+        "vector_config_name": "default",
         "language": "ja"
     }
 ]
